@@ -1,0 +1,110 @@
+{
+  "settings": {
+    "capacita": 62,
+    "prezzoCasa": 0.2,
+    "prezzoColonnina": 0.6,
+    "valuta": "€",
+    "prezzoContratto": 0.09545
+  },
+  "sessions": [
+    {
+      "data": "2026-09-11",
+      "kmDispIn": "116",
+      "kmDispFin": "351",
+      "kmOdo": "3228",
+      "battIn": "16",
+      "battFin": "83",
+      "fonte": "Casa",
+      "note": "",
+      "kwhNominale": "44.48"
+    },
+    {
+      "data": "2026-09-14",
+      "kmDispIn": "170",
+      "kmDispFin": "420",
+      "kmOdo": "3407",
+      "battIn": "41",
+      "battFin": "100",
+      "fonte": "Casa",
+      "note": "",
+      "kwhNominale": "39.49"
+    },
+    {
+      "data": "2026-09-16",
+      "kmDispIn": "57",
+      "kmDispFin": "347",
+      "kmOdo": "3744",
+      "battIn": "14",
+      "battFin": "82",
+      "fonte": "Colonnina",
+      "note": "",
+      "kwhNominale": "44.6"
+    },
+    {
+      "data": "2026-09-18",
+      "kmDispIn": "118",
+      "kmDispFin": "312",
+      "kmOdo": "3971",
+      "battIn": "28",
+      "battFin": "74",
+      "kwhNominale": "30.05",
+      "fonte": "Casa",
+      "note": ""
+    },
+    {
+      "data": "2026-09-23",
+      "kmDispIn": "122",
+      "kmDispFin": "377",
+      "kmOdo": "4163",
+      "battIn": "29",
+      "battFin": "89",
+      "kwhNominale": "40.2",
+      "fonte": "Casa",
+      "note": ""
+    },
+    {
+      "data": "2026-09-24",
+      "kmDispIn": "197",
+      "kmDispFin": "339",
+      "kmOdo": "4318",
+      "battIn": "47",
+      "battFin": "80",
+      "kwhNominale": "22.2",
+      "fonte": "Casa",
+      "note": ""
+    },
+    {
+      "data": "2026-09-25",
+      "kmDispIn": "191",
+      "kmDispFin": "375",
+      "kmOdo": "4451",
+      "battIn": "46",
+      "battFin": "89",
+      "kwhNominale": "28.5",
+      "fonte": "Casa",
+      "note": ""
+    },
+    {
+      "data": "2026-09-27",
+      "kmDispIn": "99",
+      "kmDispFin": "256",
+      "kmOdo": "4701",
+      "battIn": "24",
+      "battFin": "61",
+      "kwhNominale": "24.5",
+      "fonte": "Casa",
+      "note": ""
+    },
+    {
+      "data": "2026-09-29",
+      "kmDispIn": "99",
+      "kmDispFin": "403",
+      "kmOdo": "4849",
+      "battIn": "24",
+      "battFin": "96",
+      "kwhNominale": "47.3",
+      "fonte": "Casa",
+      "note": ""
+    }
+  ]
+}
